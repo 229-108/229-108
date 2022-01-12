@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, BIG DATA Analytic, ML&DL, NN
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on BIG DATA Analytics
-- 📫 How to reach me : mostafamaahmoudi@gmail.com
+
 
 <!---
 229-108/229-108 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
